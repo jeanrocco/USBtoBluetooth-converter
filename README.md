@@ -3,7 +3,7 @@ Convert a usb device to bluetooth using RPI pico (2)W
 
 I am merely copying https://git.kkozai.com/kenji/pico_ble_hid excellent project here, as an archive, and show my personnal rendition of it. 
 
-As I was getting ready to buy a Bluetooth keyboard, to setup a Raspberry Pi Zero 2W, I stumbled on this inexpensive USBtoBluetooth converter. I already had a Pico W
+As I was getting ready to buy a Bluetooth keyboard, to really simplify the setup of a Raspberry Pi Zero 2W, I stumbled on this inexpensive USBtoBluetooth converter. I already had a Pico W
 with soldered male headers, and instead of trying to desolder them; risky business, I chose to used matching colors female prototyping wires soldered to the USB individual wires; easy to do 
 and error forgiving. All solder joints are covered with heatshrink tubing, and the whole gizmo fits in a pill box :-) which provides all the strains release necessary. At my age, I have tons of these ... 
 
